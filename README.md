@@ -7,15 +7,15 @@
 <br>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio with Blog](https://parthprofile.netlify.app/)**
+- 🔭 Check Out My: **[My Portfolio with Blog](https://parthprofile.netlify.app/)**
 
-- 🌱 I’m currently learning **NodeJs and Python for Data Science**
+- 🌱 I’m currently learning **React for Web Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **parth.kathuria@gmail.com**
 
-- ⚡ Fun fact **I like to use Graphics Libraries to add an edgeh to my webpages**
+- ⚡ Fun fact **I like to use Graphics Libraries to add an edge to my webpages**
 
 ## 🚀 Languages and Tools:
 
