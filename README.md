@@ -5,7 +5,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer working on Java Spring + Angular.</h3>
 
 <br>
-## 🙋‍♂️ About Me
+#🙋‍♂️ About Me
 
 - 🔭 Check Out My: **[My Portfolio with Blog](https://parthprofile.netlify.app/)**
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I like to use Graphics Libraries to add an edge to my webpages**
 
-## 🚀 Languages and Tools:
+#🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
